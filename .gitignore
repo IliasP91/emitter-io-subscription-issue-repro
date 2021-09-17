@@ -3,3 +3,8 @@
 ################################################################################
 
 /Emitter-IO Test/EmitterBroadcaster/obj
+/Emitter-IO Test/EmitterClient/bin/Debug/net5.0
+/Emitter-IO Test/EmitterClient/obj
+/Emitter-IO Test/EmitterBroadcaster/bin/Debug/net5.0
+/Emitter-IO Test/Emitter/obj
+/Emitter-IO Test/Emitter/bin/Debug/netstandard1.5
